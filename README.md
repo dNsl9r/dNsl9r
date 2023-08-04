@@ -4,7 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Solution Architect for Microsoft PowerPlatform & Business Central
 -----------------------------------------------------------------
 
-Hey there, fellow tech enthusiasts! I'm Danis, hailing from the enchanting northern part of Germany. 🌊🌬️ Like many epic tales, my journey began years ago as a fearless developer, taming the Microsoft Dynamics NAV beasts. Little did I know that my destiny lay beyond the horizon of conventional programming challenges. As the cosmic forces of Microsoft beckoned, I couldn't resist diving into the mysteries of Azure Cognitive Services, the wonders of DevOps, and the endless possibilities of the PowerPlatform. 🌌🔮 The Microsoft universe had me spellbound, and I embarked on an exhilarating quest to harness its full potential for the betterment of our customers and products. In the realm of PowerPlatform, I've become a sorcerer of sorts, wielding the magic of automation, data visualization, and workflow optimization. With every PowerApp crafted and every Power Automate flow orchestrated, I delight in empowering businesses and witnessing the smiles on our customers' faces. 😄💼 Beyond the realms of code and technology, I find solace in the ancient arts of restoration. In my spare time, you'll often find me at our old house from the mid-1800s, weaving my craftsmanship to preserve its historical charm. When not immersed in architectural exploits, I wander through the wilderness, tending to my secret garden or embarking on adventurous photo walks. 🏰🌿📸 Whether I'm weaving code spells or nurturing nature's beauty, the thrill of discovery and the joys of creation fuel my passions. If you're ready to explore the boundless horizons of Microsoft Business Central and PowerPlatform, join me on this incredible journey! Let's script the future together! 🚀🔭🌟
+Hey there, fellow tech enthusiasts! I'm Danis, hailing from the enchanting northern part of Germany. 🌊🌬️   
+Like many epic tales, my journey began years ago as a fearless developer, taming the Microsoft Dynamics NAV beasts. Little did I know that my destiny lay beyond the horizon of conventional programming challenges.  
+
+
+As the cosmic forces of Microsoft beckoned, I couldn't resist diving into the mysteries of Azure Cognitive Services, the wonders of DevOps, and the endless possibilities of the PowerPlatform. 🌌🔮  
+The Microsoft universe had me spellbound, and I embarked on an exhilarating quest to harness its full potential for the betterment of our customers and products. 
+
+In the realm of PowerPlatform, I've become a sorcerer of sorts, wielding the magic of automation, data visualization, and workflow optimization.  
+With every PowerApp crafted and every Power Automate flow orchestrated, I delight in empowering businesses and witnessing the smiles on our customers' faces. 😄💼  
+
+Beyond the realms of code and technology, I find solace in the ancient arts of restoration. In my spare time, you'll often find me at our old house from the mid-1800s, weaving my craftsmanship to preserve its historical charm.  
+When not immersed in architectural exploits, I wander through the wilderness, tending to my secret garden or embarking on adventurous photo walks. 🏰🌿📸  
+Whether I'm weaving code spells or nurturing nature's beauty, the thrill of discovery and the joys of creation fuel my passions.  
+If you're ready to explore the boundless horizons of Microsoft Business Central and PowerPlatform, join me on this incredible journey! Let's script the future together! 🚀🔭🌟
 <!--
 ### Skills
 
